@@ -1,0 +1,3 @@
+//openAI key
+
+//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
